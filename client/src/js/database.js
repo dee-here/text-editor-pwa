@@ -32,7 +32,8 @@ export const getDb = async () => {
   const id = 1; // we only have 1 item in db
   const request = store.get(id);
   const result = await request;
-  console.log('result.value', result);
+  console.log('result', result);
+
   return result.value;
 };
 

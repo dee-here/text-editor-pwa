@@ -26,9 +26,9 @@ It can also be downloaded to your desktop as an application.
 | Git | [https://git-scm.com/](https://git-scm.com/)     |  
 
 
-Idb package was used as a wrapper around an IndexedDB database. It provides useful features for storing and retrieving data.
+Idb package was used as a wrapper around an IndexedDB database. It provides useful features for storing and retrieving data. OpenDB function from idb was used to get and update data from the database.
 
-Babel was used to seamlessly load different types of files.  
+Babel was used to seamlessly load different types of files for this application.  
 
 Webpack was used as a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser. It is also capable of transforming, bundling, or packaging just about any resource or asset.
 

@@ -1,13 +1,13 @@
-# JATE Text Editor Progressive Web Applications (PWA)
+# Just Another Text Editor : Progressive Web Application (PWA)
 ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)  
 
 
 ## Description 
 [Deployed app](https://ds-text-editor-pwa-4262863a72d2.herokuapp.com/)
 
-This project was to build a text editor that runs in the browser. This application is a single page application that meets the PWA criteria and is deployed to Heroku at the link under description.
+This project was to build a text editor that runs in the browser. It is a single page application that meets the PWA criteria and is deployed to Heroku at the link under description.
 
-This app can be be used to create code snippets or notes with or without an internet connection.
+This application can be be used to create code snippets or notes with or without an internet connection.
 
 It uses multiple data persistence techniques to handle browser compatibility. This application can also be used while being offline.
 It can also be downloaded to your desktop as an application.
